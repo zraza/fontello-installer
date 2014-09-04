@@ -1,0 +1,59 @@
+{
+  "name": "Fontello-installer",
+  "version": "0.0.1",
+  "description": "Command line interface to easly integrate/manage Fontello fonts into your application.",
+  "keywords": [
+    "fontello",
+    "cli",
+    "icon fonts",
+    "icon",
+    "Entypo",
+    "Font Awesome",
+    "Typicons",
+    "Iconic",
+    "Modern Pictograms",
+    "Meteocons",
+    "MFG Labs",
+    "Maki",
+    "Zocial",
+    "Brandico",
+    "Elusive",
+    "Linecons",
+    "Web Symbols"
+  ],
+  "homepage": "https://github.com/zraza/fontello-installer",
+  "author": {
+    "name": "Zeeshan Raza",
+    "email": "zeeshan_raza@yahoo.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zraza/fontello-installer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zraza/fontello-installer/issues"
+  },
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "dependencies": {
+    "needle": "^0.7.9",
+    "open": "0.0.5",
+    "prompt": "^0.2.13",
+    "unzip": "^0.1.9",
+    "replacestream": "^0.1.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-util": "^2.2.17",
+    "gulp-jshint": "~1.5.0",
+    "gulp-load-plugins": "~0.4.0",
+    "jshint-stylish": "~0.1.5",
+    "lazypipe": "^0.2.2",
+    "gulp-cached": "^1.0.1"
+  },
+  "optionalDependencies": {},
+  "main": "lib/fontello.js",
+  "scripts": {}
+}

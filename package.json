@@ -1,5 +1,5 @@
 {
-  "name": "Fontello-installer",
+  "name": "fontello-installer",
   "version": "0.0.1",
   "description": "Command line interface to easly integrate/manage Fontello fonts into your application.",
   "keywords": [

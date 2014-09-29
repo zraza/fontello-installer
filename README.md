@@ -1,6 +1,6 @@
 # Fontello CLI
 
-Command line interface to easly integrate/manage Fontello fonts into your application.
+Command line interface to easily integrate/manage Fontello fonts into your application.
 
 
 ## Installation
@@ -40,21 +40,21 @@ Folder path, where you want to save your CSS files (This path should phycical ex
  
 **cssFiles: (Optional)**
 
-Fontello create four differnt files, but most f the time we dont need all of them, provide array of file name need, skiping this option will copy all CC files
+Fontello create four different files, but most of the time we don't need all of them, provide array of file name need, skipping this option will copy all CSS files
 
 *['animation.css','fontello.css']*
 
 
 **cssFontPath:**
 
-Folder path, where you want to save your CSS files (This path should phycical exits)
+Folder path, where you want to save your CSS files (This path should physical exits)
 
 *'/assets/fonts/'*
 
 
 **fontPath:**
 
-Fontello CSS files include fonts from '../font/' path, provide the diffenr prefix if required to load fonts for your project.
+Fontello CSS files include fonts from '../font/' path, provide the differ prefix if required to load fonts for your project.
 
 *'./src/app/assets/fonts'*
 
